@@ -50,15 +50,10 @@ https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia?authus
 
 i) Write a colab with tensorflow only but using high level api
 
-## Demo Video
- 
-
- 
-
- 
-
 https://www.tutorialspoint.com/how-to-make-a-4d-plot-with-matplotlib-using-arbitrary-dataLinks to an external site.
 
  
 
 h) repeat the above using JAX.
+
+## Demo Video
