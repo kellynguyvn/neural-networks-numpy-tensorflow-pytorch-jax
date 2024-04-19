@@ -57,3 +57,8 @@ https://www.tutorialspoint.com/how-to-make-a-4d-plot-with-matplotlib-using-arbit
 h) repeat the above using JAX.
 
 ## Demo Video
+https://drive.google.com/file/d/1u7syhI0gGmGiDiHX8BAs1aLwFi2bSSZf/view?usp=sharing
+
+### Explaination
+Unfortunately my aaudio was not working, however, the demo goes through the different notebooks for this assignment which resulted in the desired results of using pytorch, tensorflow, and jax
+
